@@ -1,7 +1,11 @@
 #id01{
-    background-color: aliceblue; 
+    background-color: brown; 
     color: black;
     text-align: center;
+    border: 5px;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 50px;
 }
 
 h1{
